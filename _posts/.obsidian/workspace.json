@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6e9be5a5eb50435b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcfc183974f1de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cb3cde2b2198a7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55b6a516bbe10e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "0826e0016554a561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64bada6d834d622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6b8b8985ce22f25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10b658b6b59d8de3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ce747bda8df0db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f392ada83de1b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242b13b5bf4b73e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a2ea29cf02b5df3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f546ee5da8cb0817",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7c7d142273458491",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1a69dc609423352",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7cb3cde2b2198a7f",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "网易有道公司调研报告.md",
+    "党史学习心得——探寻毛主席在党发展中做出的贡献.md",
+    "2024-01-20.md",
+    "it创新创业调研报告.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}
