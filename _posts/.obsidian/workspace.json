@@ -1,35 +1,77 @@
 {
   "main": {
-    "id": "6e9be5a5eb50435b",
+    "id": "13e0ef659b867bd0",
     "type": "split",
     "children": [
       {
-        "id": "ddcfc183974f1de7",
+        "id": "dee5ddf350170353",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb3cde2b2198a7f",
+            "id": "ca1cb422c3e17b79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "242da957df946d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-04-07-看待上海本地人歧视上海外地人的三个视角.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a18c79c1a1679e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-8-27-智识三障.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47b2733be0e28259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-08-13-为潘金莲辩护.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55b6a516bbe10e53",
+    "id": "e96bf61240ee9f96",
     "type": "split",
     "children": [
       {
-        "id": "0826e0016554a561",
+        "id": "f7d631e14f9aa72f",
         "type": "tabs",
         "children": [
           {
-            "id": "b64bada6d834d622",
+            "id": "45f8a363a2d58a9b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +81,12 @@
             }
           },
           {
-            "id": "f6b8b8985ce22f25",
+            "id": "f5754596e14912b8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "智识三障",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,33 +96,35 @@
             }
           },
           {
-            "id": "10b658b6b59d8de3",
+            "id": "c44a2254defd5d07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "8ce747bda8df0db3",
+    "id": "e0ac072d67ad467a",
     "type": "split",
     "children": [
       {
-        "id": "e5f392ada83de1b5",
+        "id": "d0780b1f841cd936",
         "type": "tabs",
         "children": [
           {
-            "id": "242b13b5bf4b73e2",
+            "id": "1ffcd1556e5f63f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-8-27-智识三障.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,53 +136,71 @@
             }
           },
           {
-            "id": "9a2ea29cf02b5df3",
+            "id": "e631016f6c955644",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2021-8-27-智识三障.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f546ee5da8cb0817",
+            "id": "b8df467d0fc0b4ea",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "7c7d142273458491",
+            "id": "150aa2619d507e0d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-8-27-智识三障.md"
+              }
             }
           },
           {
-            "id": "a1a69dc609423352",
+            "id": "14096ebac76e9ec1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "85fed64104c92f12",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f78626ed1e9b698e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +209,41 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "7cb3cde2b2198a7f",
+  "active": "9a18c79c1a1679e3",
   "lastOpenFiles": [
+    "2021-08-13-为潘金莲辩护.md",
+    "2021-8-27-智识三障.md",
+    "2021-04-16-两个未经调和的死亡喻.md",
+    "21-04-24-后怕与后悔.md",
+    "2022-08-03-一把斩断沉迷与热爱的铡刀.md",
+    "2023-07-20-流动性危机、观点趋同与花剌子模信使.md",
+    "2021-04-10-一个伤感的故事.md",
+    "2021-05-17-保国往事第四封：姑娘与历史.md",
+    "2021-04-25-并非理所当然.md",
+    "2021-04-17-女性与社会权力结构.md",
+    "2021-04-29-被岁月磨平了棱角.md",
+    "纪念友人 0e63be6f31634126aaf0cce3e031f2f7.md",
+    "终极三问 d85d4e3231fc404580d672f15748834d.md",
+    "自我批判一则 8c91606eedad42c4a0b39e0f6673c7b5.md",
+    "2021-05-03-教书育人能不能工业化.md",
+    "2023-07-19-流动性危机.md",
+    "世界观 08f9be75cdb5496080ca3b929b79addf.md",
+    "三十三岁前我想做的事情 59fd86842c8245d5931a6a928a0592d1.md",
+    "2021-12-08-理解元宇宙.md",
+    "2023-01-10-有则改之无则加勉.md",
+    "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869/强悍的商业领袖不会预设一个公平社会 640975074e57426ea5ce443b75cef92e.md",
+    "所谓四大名著中的混子 2bda6167ed5d46108d89b52797bc387d.md",
+    "2023-01-04-拿人钱财替人消灾.md",
+    "2021-05-20-每个人都是一艘船.md",
+    "藏不住自认为美好的事物 481e4879b4514b288834d1931e2b8d1e.md",
+    "2021-05-16-保国往事第三封：酸奶与玫瑰.md",
+    "未命名",
+    "创业只靠历史学的功底 6127b03fb0824584a19ba8fb19f6b869",
     "未命名.canvas",
-    "网易有道公司调研报告.md",
-    "党史学习心得——探寻毛主席在党发展中做出的贡献.md",
-    "2024-01-20.md",
-    "it创新创业调研报告.canvas",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
+    "obsidian_templates"
   ]
 }
