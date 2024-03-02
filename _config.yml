@@ -168,7 +168,7 @@ defaults:
 
 sass:
   sass_dir: _sass
-  css_dir: assets/css
+  css_dir: assets/css/style.scss
 
 
 compress_html:
