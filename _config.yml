@@ -167,7 +167,9 @@ defaults:
       swcache: true
 
 sass:
-  style: compressed
+  sass_dir: _sass
+  css_dir: assets/css
+
 
 compress_html:
   clippings: all
