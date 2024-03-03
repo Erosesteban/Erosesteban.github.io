@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn: 'https://ik.imagekit.io/lr'
 # the avatar on sidebar, support local or CORS resources
-avatar: '/知识管理_cdn_truth.jpg'
+avatar: '/Lonely_Reader_Social_Media_LR_Profile_Brown_BG.png'
 # boolean type, the global switch for TOC in posts.
 toc: true
 
