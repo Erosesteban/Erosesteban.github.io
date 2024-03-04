@@ -77,9 +77,9 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://cdn.jsdelivr.net'
+img_cdn: 'https://ik.imagekit.io/Erosesteban/'
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://cdn.jsdelivr.net/gh/Erosesteban/cdn@v1.0.1/img/truth.png'
+avatar: 'https://imagekit.io/dashboard/media-library/L3RydXRo/truth.jpg'
 # boolean type, the global switch for TOC in posts.
 toc: true
 
