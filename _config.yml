@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn: 'https://cdn.jsdelivr.net'
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://cdn.jsdelivr.net/gh/Erosesteban/cdn@v1.0.1/img/truth.png'
+avatar: '{{ img_cdn }}/gh/Erosesteban/cdn@v1.0.1/img/truth.png'
 # boolean type, the global switch for TOC in posts.
 toc: true
 
