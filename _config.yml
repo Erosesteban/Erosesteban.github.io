@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn: 'https://ik.imagekit.io/Erosesteban/'
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://imagekit.io/dashboard/media-library/L3RydXRo/truth.jpg'
+avatar: 'https://imagekit.io/dashboard/media-library/L3RydXRo/truth.png'
 # boolean type, the global switch for TOC in posts.
 toc: true
 
